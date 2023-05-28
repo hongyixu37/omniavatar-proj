@@ -16,8 +16,8 @@ We present OmniAvatar, a novel geometry-guided 3D head synthesis model trained f
 ### Setup 
 1.  Clone the repo:
 ```bash
-git clone https://github.com/hongyixu37/omniavatar.git
-cd omniavatar
+git clone https://github.com/hongyixu37/omniavatar-proj.git
+cd omniavatar-proj
 ```
 2. Create a new environment and install the libraries:
 ```bash
